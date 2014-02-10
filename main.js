@@ -5,8 +5,6 @@
 define(function (require, exports, module) {
     "use strict";
     
-    
-    
     // Imports
     var $Commands  = brackets.getModule("command/CommandManager"),
         $Prefs     = brackets.getModule("preferences/PreferencesManager"),
@@ -116,5 +114,4 @@ define(function (require, exports, module) {
     // Init
     updateJSLint();
     
-    var blah_;
 });
