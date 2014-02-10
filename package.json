@@ -1,0 +1,12 @@
+{
+    "name": "jslint.customiser",
+    "title": "JSLint Customiser",
+    "description": "Enables customisation of JSLint options.",
+    "homepage": "https://github.com/jnewc/brackets-jslint-customiser",
+    "version": "0.0.2",
+    "author": "Jack Newcombe <jack@oma-studios.co.uk> (https://github.com/jnewc)",
+    "license": "WTFPL",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
